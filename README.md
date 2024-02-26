@@ -4,10 +4,10 @@ This project demonstrates the creation of a login page with a profile upload fea
 
 ## Prerequisites
 
-- ![Visual Studio Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png) **Visual Studio**: Version compatible with MVC 5.0.
+[- ![Visual Studio Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png) **Visual Studio**: Version compatible with MVC 5.0.
 - ![SQL Server Icon](https://img.icons8.com/color/452/microsoft-sql-server.png) **SQL Server Management Studio**: For database setup.
 - ![Bootstrap Icon](https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png) **Bootstrap 3.0.0**: For styling.
-
+](url)
 ## Getting Started
 
 1. Clone the repository:
